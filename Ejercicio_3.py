@@ -11,5 +11,5 @@ edad = año_actual - año_de_nacimiento
 
 # SALIDA DE DATOS
 print("La edad es =", edad)
-# print("La edad es = " + str(edad))
-# print(f"La edad es = {edad}")
+print("La edad es = " + str(edad))
+print(f"La edad es = {edad}")

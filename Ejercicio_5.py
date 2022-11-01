@@ -19,9 +19,9 @@ x_2 = (-b - ((b**2 - (4*a*c))**1/2)) / (2*a)
 
 # SALIDA DE DATOS
 print("x_1 es =", round(x_1, 1))
-# print("x_1 es = " + str(round(x_1, 1)))
-# print(f"x_1 es = {round(x_1, 1)}")
+print("x_1 es = " + str(round(x_1, 1)))
+print(f"x_1 es = {round(x_1, 1)}")
 
 print("x_2 es =", round(x_2, 1))
-# print("x_1 es = " + str(round(x_2, 1)))
-# print(f"x_1 es = {round(x_2, 1)}")
+print("x_1 es = " + str(round(x_2, 1)))
+print(f"x_1 es = {round(x_2, 1)}")

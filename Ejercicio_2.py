@@ -22,10 +22,10 @@ perímetro = 2*pi*radio
 
 # PERÍMETRO
 print("El perímetro es =", round(perímetro, 2))
-# print("El perímetro es = " + str(round(perímetro, 2)))
-# print(f"El perímetro = {round(perímetro, 2)}")
+print("El perímetro es = " + str(round(perímetro, 2)))
+print(f"El perímetro = {round(perímetro, 2)}")
 
 # ÁREA
 print("El área es =", round(área, 2))
-# print("El área es = " + str(round(área, 2)))
-# print(f"El área es = {round (área, 2)}")
+print("El área es = " + str(round(área, 2)))
+print(f"El área es = {round (área, 2)}")
