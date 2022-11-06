@@ -16,5 +16,5 @@ elif(nivel_del_agua > 4 and nivel_del_agua < 6):    # Entre 4m y 6 m Desacelerar
     print("Desacelerar Bomba")
 elif(nivel_del_agua == 6):                          # Nivel de 6 m. Apagar bomba
     print("Apagar Bomba")
-elif(nivel_del_agua > 6):                           # Si llega más de 6 m Desbordamiento de agua en cisterna
+elif(nivel_del_agua > 6):                           # Si llega más de 6 m. Desbordamiento de agua en cisterna
     print("Desbordamiento de Agua en Cisterna")
