@@ -1,9 +1,4 @@
-'''''
-APROBADO                mayor  a 6 hasta 10
-APROBADO DE PANSASO     iual a 6
-REPROBADO               de 0 a menor que 6
-PROMEDIO INVALIDO       menor que 0 o mayor que 10
-'''''
+
 # Calcular el promedio de 3 calificaciones y decir si es aprobado o reprobado.
 
 # Entrada de datos:
