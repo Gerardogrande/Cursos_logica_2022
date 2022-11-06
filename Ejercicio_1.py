@@ -14,7 +14,7 @@ if(promedio > 6 and promedio <= 10):
     print("Tu promedio es =", round(promedio, 1))
     print("Estatus: Aprobado")
 elif(promedio == 6):
-    print("Tu promedio es = " + str(promedio))
+    print("Tu promedio es = " + str(round(promedio, 1)))
     print("Estatus: Aprobado de pansaso")
 elif(promedio >= 0 and promedio < 6):
     print(f"Tu promedio es = {round(promedio, 1)}")
